@@ -1,12 +1,19 @@
 *{
     background-color: rgb(182, 65, 65);
-
+    display: flex;
 }
 h1{
-    display: flex;
+    
     background-color: rgb(71, 151, 104);
     color: cyan;
     padding: 50px;
     margin: 30px;
     justify-content: center;
 }
+
+#caixa-flex{
+    background-color: bisque;
+    padding: 40%;
+    margin: 40px;
+}
+ 
