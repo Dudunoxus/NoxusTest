@@ -1,8 +1,8 @@
 *{
-    background-color: darkred;
+    background-color: rgb(182, 65, 65);
 
 }
 h1{
     display: flex;
-    background-color: black;
+    background-color: rgb(71, 151, 104);
 }
