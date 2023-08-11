@@ -5,4 +5,7 @@
 h1{
     display: flex;
     background-color: rgb(71, 151, 104);
+    color: cyan;
+    padding: 50px;
+    margin: 30;
 }
